@@ -1,0 +1,12 @@
+name: annotations
+description: Defining all the annotations
+version: 1.0.0
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+ 
+  test: ^1.0.0
